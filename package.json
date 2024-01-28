@@ -1,6 +1,5 @@
 {
   "name": "auction-service",
-  "start": "react-scripts --openssl-legacy-provider start",
   "version": "1.0.0",
   "description": "Codingly template for Serverless Framework projects",
   "author": "Ariel Weinberger <ariel@codingly.io>",
@@ -17,6 +16,6 @@
   },
   "dependencies": {
     "aws-sdk": "^2.639.0",
-    "uuid": "^9.0.1"
+    "uuid": "^7.0.1"
   }
 }
