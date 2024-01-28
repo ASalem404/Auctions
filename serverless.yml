@@ -25,7 +25,7 @@ resources:
             KeyType: HASH
 
 functions:
-  hello:
+  createAucation:
     handler: src/handlers/createAuction.handler
     events:
       - http:
